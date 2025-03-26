@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pap'Stop - Fast Food</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">Pap'Stop</div>
+        <nav>
+            <ul>
+                <li><a href="#menu">Menu</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+                <li><a href="#order">Order Online</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h1>Welcome to Pap'Stop</h1>
+        <p>Located at 78 Claughton St., St. Helens, WA10 1SN</p>
+        <a href="#order" class="btn">Order Now</a>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Pap'Stop. All rights reserved.</p>
+    </footer>
+</body>
+</html>
